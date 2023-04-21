@@ -1,8 +1,8 @@
 # Stock-Market-Regime-Detection for NASDAQ and S&P 500
 
 Applied the Hidden Markov Model (using GaussianHMM) to the following datasets using python libraries: Pandas, Numpy and Plotly. 
-- Daily assset return data for S&P 500 
-- Daily asset return data for NASDAQ
+- Daily asset price data for S&P 500 
+- Daily asset price data for NASDAQ
 
 Methodology: 
 - The adjusted closing price moving average of 7 days was calculated and based on that, the adjusted closing price log return was determined.
